@@ -1,0 +1,29 @@
+.title {
+    background-color: #f9c418;
+    color: white;
+    display: block ;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding-left: 10px;
+}
+
+h3 {
+    color : #535151;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 20px;
+}
+
+li {
+    color : #ff6004;
+}
+
+a{
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    background-image: url('../assets/fondo.jpg');
+}
+    
+    
+
