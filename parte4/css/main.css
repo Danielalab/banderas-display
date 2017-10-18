@@ -1,0 +1,13 @@
+p {
+  display: inline;
+  box-sizing: border-box;
+  background-color: #f9c018;
+  padding : 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.black {
+  background-color: #000;
+  color: #fff;
+}

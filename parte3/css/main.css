@@ -1,0 +1,19 @@
+div{
+  display: inline-block;
+  box-sizing: border-box;
+  height: 120px;
+  width: 210px;
+  background-color: #f9c018;
+  padding-left: 10px;
+  padding-top: 7px;
+  margin: 10px;
+}
+
+p {
+  margin:0;
+}
+
+.black {
+  background-color: #000;
+  color: #fff;
+}
